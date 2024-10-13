@@ -16,9 +16,9 @@
 
 ## 🐝 Currently Learning
 
-- **Java** - Exploring its versatility and robust features for building enterprise-level applications. [Official Site](https://www.oracle.com/java/)
-- **Linux** - Building on my foundational knowledge to explore advanced concepts, including operating system architecture, process management, and system administration. [Official Site](https://www.linux.org/)
-- **IoT with ESP32** - Understanding how to create smart devices that communicate and operate intelligently. [Official Site](https://www.esp32.com/)
+- **Java** - Exploring its versatility and robust features for building enterprise-level applications.
+- **Linux** - Building on my foundational knowledge to explore advanced concepts, including operating system architecture, process management, and system administration. 
+- **IoT with ESP32** - Understanding how to create smart devices that communicate and operate intelligently. 
 
 ## ⚡ Technologies & Tools
 
