@@ -1,4 +1,4 @@
-<img src="00.gif" alt="Loading Spinner" />
+<img src="00.gif" alt="Loading Spinner" style="width: 100%; max-width: 800px; height: auto;" />
 <p align="center">
   <strong>Computer Science Student</strong> | <strong>Full Stack Developer</strong> <br>
   Based in Tunisia | Passionate about technology and music.
