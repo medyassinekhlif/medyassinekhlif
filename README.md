@@ -1,5 +1,9 @@
-<img src="00.gif" alt="Loading Spinner" style="width: 100%; max-width: 800px; height: auto;" />
 <p align="center">
+  <img src="00.gif" alt="Loading Spinner" width="100%" style="max-width: 800px;"/>
+</p>
+
+<p align="center">
+ <img src="00.gif" alt="Loading Spinner" width="100%" style="max-width: 800px;"/>
   <strong>Computer Science Student</strong> | <strong>Full Stack Developer</strong> <br>
   Based in Tunisia | Passionate about technology and music.
 </p>
