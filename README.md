@@ -1,5 +1,6 @@
-| ![Loading Spinner](00.gif) |
-|:----------------------------:|
+<p align="center">
+  <img src="00.gif" alt="Loading Spinner" width="100%" style="max-width: 800px;"/>
+</p>
 
 <p align="center">
   <strong>Computer Science Student</strong> | <strong>Full Stack Developer</strong> <br>
