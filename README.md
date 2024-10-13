@@ -9,10 +9,10 @@
 
 ## 📚 Programming Languages Mastery
 
-- **Python** - [Official Site](https://www.python.org/)
-- **JavaScript** - [Official Site](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- **C** - [Official Site](https://en.cppreference.com/w/c)
-- **C++** - [Official Site](https://en.cppreference.com/w/cpp)
+- **Python**
+- **JavaScript** 
+- **C** 
+- **C++**
 
 ## 🐝 Currently Learning
 
