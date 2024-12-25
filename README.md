@@ -1,5 +1,9 @@
 <p align="center">
+<<<<<<< HEAD
   <img src="01.gif" alt="Loading Spinner" width="100%" style="max-width: 800px;"/>
+=======
+  <img src="00.gif" alt="Loading Spinner" width="100%" style="max-width: 800px;"/>
+>>>>>>> bde7244070845a65e23f9df6ced7f7bad8730f95
 </p>
 
 <p align="center">
@@ -9,6 +13,7 @@
 
 ## 📚 Programming Languages Mastery
 
+<<<<<<< HEAD
 - **Python** - [Official Site](https://www.python.org/)
 - **JavaScript** - [Official Site](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - **C** - [Official Site](https://en.cppreference.com/w/c)
@@ -19,6 +24,18 @@
 - **Java** - Exploring its versatility and robust features for building enterprise-level applications. [Official Site](https://www.oracle.com/java/)
 - **Linux** - Building on my foundational knowledge to explore advanced concepts, including operating system architecture, process management, and system administration. [Official Site](https://www.linux.org/)
 - **IoT with ESP32** - Understanding how to create smart devices that communicate and operate intelligently. [Official Site](https://www.esp32.com/)
+=======
+- **Python**
+- **JavaScript** 
+- **C** 
+- **C++**
+
+## 🐝 Currently Learning
+
+- **Java** - Exploring its versatility and robust features for building enterprise-level applications.
+- **Linux** - Building on my foundational knowledge to explore advanced concepts, including operating system architecture, process management, and system administration. 
+- **IoT with ESP32** - Understanding how to create smart devices that communicate and operate intelligently. 
+>>>>>>> bde7244070845a65e23f9df6ced7f7bad8730f95
 
 ## ⚡ Technologies & Tools
 
