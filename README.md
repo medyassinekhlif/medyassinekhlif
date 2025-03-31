@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="00.gif" alt="Loading" width="100%"/>
+</p>
 
 <p align="center">
   <strong>Computer Science Student</strong> | <strong>Full Stack Developer</strong> <br>
