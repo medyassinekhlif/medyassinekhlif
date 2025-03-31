@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="00.gif" alt="Loading Spinner" width="100%" style="max-width: 800px;"/>
+  <img src="00.gif" alt="Loading" width="100%"/>
 </p>
 
 <p align="center">
