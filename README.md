@@ -7,18 +7,16 @@
   Based in Tunisia | Passionate about technology and music.
 </p>
 
-## 📚 Programming Languages Mastery
+## 📚 Programming Languages Mastery and 🐝 Currently Learning
 
-- **Python**
-- **JavaScript** 
-- **C**
-- **C++**
-
-## 🐝 Currently Learning
-
-- **Java** - Exploring its versatility and robust features for building enterprise-level applications.
-- **Linux** - Building on my foundational knowledge to explore advanced concepts, including operating system architecture, process management, and system administration.
-- **IoT with ESP32** - Understanding how to create smart devices that communicate and operate intelligently.
+| Mastery                          | Currently Learning                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------------|
+| - **Python**                    | - **Linux** - Building on my foundational knowledge to explore advanced concepts, including operating system architecture, process management, and system administration. |
+| - **JavaScript**                | - **IoT with ESP32** - Understanding how to create smart devices that communicate and operate intelligently. |
+| - **C**                         |                                                                                   |
+| - **C++**                       |                                                                                   |
+| - **C#**                        |                                                                                   |
+| - **Java**                      |                                                                                   |
 
 ## ⚡ Technologies & Tools
 
