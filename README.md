@@ -7,16 +7,19 @@
   Based in Tunisia | Passionate about technology and music.
 </p>
 
-## 📚 Programming Languages Mastery and 🐝 Currently Learning
+## 📚 Programming Languages Mastery
 
-| Mastery                          | Currently Learning                                                                 |
-|----------------------------------|-----------------------------------------------------------------------------------|
-| - **Python**                    | - **Linux** - Building on my foundational knowledge to explore advanced concepts, including operating system architecture, process management, and system administration. |
-| - **JavaScript**                | - **IoT with ESP32** - Understanding how to create smart devices that communicate and operate intelligently. |
-| - **C**                         |                                                                                   |
-| - **C++**                       |                                                                                   |
-| - **C#**                        |                                                                                   |
-| - **Java**                      |                                                                                   |
+- **Python**
+- **JavaScript** 
+- **C**
+- **C++**
+- **C#**
+- **Java**
+
+## 🐝 Currently Learning
+
+- **Linux** - Building on my foundational knowledge to explore advanced concepts, including operating system architecture, process management, and system administration.
+- **IoT with ESP32** - Understanding how to create smart devices that communicate and operate intelligently.
 
 ## ⚡ Technologies & Tools
 
@@ -29,7 +32,7 @@
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" /></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48" /></a>
   <a href="https://socket.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="48" /></a>
-  <a href="https://www.npmjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="48" /></a>
+  <a href="https://www.npmjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordinto.svg" width="48" /></a>
 </p>
 
 <p align="center">
