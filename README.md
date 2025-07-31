@@ -60,15 +60,15 @@
 #### AI & Machine Learning Tools
 
 <p align="center">
-  <img src="https://blog.christianperone.com/wp-content/uploads/2018/10/pytorch-logo.png" alt="PyTorch" width="60"/>
+  <img src="https://blog.christianperone.com/wp-content/uploads/2018/10/pytorch-logo.png" alt="PyTorch" width="48"/>
   &nbsp;&nbsp;
-  <img src="https://res.cloudinary.com/harendra21/image/upload/v1742473055/withcodeexample.com/getting-started-with-python-fastapi-a-comprehensive-guide_tnigh2.jpg" alt="FastAPI" width="90"/>
+  <img src="https://res.cloudinary.com/harendra21/image/upload/v1742473055/withcodeexample.com/getting-started-with-python-fastapi-a-comprehensive-guide_tnigh2.jpg" alt="FastAPI" width="48"/>
   &nbsp;&nbsp;
-  <img src="https://www.pythontutorial.net/wp-content/uploads/2022/08/numpy-tutorial.svg" alt="NumPy" width="60"/>
+  <img src="https://www.pythontutorial.net/wp-content/uploads/2022/08/numpy-tutorial.svg" alt="NumPy" width="48"/>
   &nbsp;&nbsp;
-  <img src="https://codersdaily.in/media/logo-images/OpenCV_logo_T0QUPs6.png" alt="OpenCV" width="70"/>
+  <img src="https://codersdaily.in/media/logo-images/OpenCV_logo_T0QUPs6.png" alt="OpenCV" width="48"/>
   &nbsp;&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" alt="Hugging Face" width="60"/>
+  <img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" alt="Hugging Face" width="48"/>
 </p>
 
 #### Network Tools
@@ -85,7 +85,7 @@
 
 ## 🎶 Hobbies
 
-- Playing the **Oud**  
+- Playing **Music** 
 - Exploring **Philosophy**  
 - Watching **Films** and **Documentaries**  
 - Creating **AI-Generated Music** using neural networks  
@@ -94,6 +94,6 @@
 
 I'm always open to collaborating on exciting projects! If you have an idea or need help with a project, don’t hesitate to contact me.
 
-## 🚀 Check Out My Latest Project
+## Check Out My Latest Project
 
-🎥 [Watch on YouTube](https://www.youtube.com/watch?v=TL5n5-ucbo8)
+[Watch on YouTube](https://www.youtube.com/watch?v=TL5n5-ucbo8)
