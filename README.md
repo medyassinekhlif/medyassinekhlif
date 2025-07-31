@@ -60,11 +60,11 @@
 #### AI & Machine Learning Tools
 
 <p align="center">
-  <a href="https://pytorch.org/" target="_blank"><img src="https://blog.christianperone.com/wp-content/uploads/2018/10/pytorch-logo.png" width="48"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/156354296?s=280&v=4" width="48"/></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://www.pythontutorial.net/wp-content/uploads/2022/08/numpy-tutorial.svg" width="48"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://codersdaily.in/media/logo-images/OpenCV_logo_T0QUPs6.png" width="48"/></a>
-  <a href="https://huggingface.co/" target="_blank"><img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" width="48"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="48"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="48"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="48"/></a>
+  <a href="https://opencv.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="48"/></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/huggingface-original.svg" alt="Hugging Face" width="48"/></a>
 </p>
 
 #### Network Tools
