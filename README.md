@@ -19,7 +19,8 @@
 ## 🐝 Currently Learning
 
 - **Machine Learning & Neural Networks** – Diving into deep learning concepts using **PyTorch** and **FastAPI**.  
-- **AI Music Generation** – Exploring creative uses of AI to generate music as a hobby.  
+- **AI Music Generation** – Exploring creative uses of AI to generate music as a hobby (Python, Carla, and VST3 plugins like Sforzando, Surge XT, and MT-PowerDrumKit to craft expressive pop ballad instrumentals).
+
 - **Linux** – Building on my foundational knowledge to explore advanced concepts, including operating system architecture, process management, and system administration.  
 
 ## ⚡ Technologies & Tools
@@ -94,3 +95,4 @@ I'm always open to collaborating on exciting projects! If you have an idea or ne
 ## 📽️ Check Out My Latest Project
 
 [Watch on YouTube](https://www.youtube.com/watch?v=TL5n5-ucbo8)
+
