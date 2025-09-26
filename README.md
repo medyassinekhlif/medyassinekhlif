@@ -84,7 +84,7 @@
     <img src="https://assets.tracktion.com/img/branding/tracktion-logo-gear-light-gray.png" width="40" alt="Tracktion Engine Logo"/>
   </a>
   <a href="https://www.spitfireaudio.com/labs/" target="_blank">
-    <img src="https://labsplus.zendesk.com/hc/theming_assets/01JR9319VP8Q8FB3HG9KX51BD6" width="40" alt="Spitfire LABS Logo"/>
+    <img src="https://images.ctfassets.net/g7eq1prqo1vw/3MGvqTxHTgM5EtZegZ3taF/97ca318200d853315f3a27920a8edfc3/LABS-android-chrome-512x512.png?h=250" width="40" alt="Spitfire LABS Logo"/>
   </a>
 </p>
 
