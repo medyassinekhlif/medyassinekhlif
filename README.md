@@ -79,7 +79,7 @@
 <p align="center">
   <a href="https://juce.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/62880632?s=280&v=4" width="40"/></a>
   <a href="https://www.tracktion.com/" target="_blank"><img src="https://assets.tracktion.com/img/branding/tracktion-logo-gear-light-gray.png" width="40"/></a>
-  <a href="https://www.spitfireaudio.com/labs/" target="_blank"><img src="https://magneticmag.com/wp-content/uploads/2024/10/Labs-black-logo-2800x715-1.png" width="40"/></a>
+  <a href="https://www.spitfireaudio.com/labs/" target="_blank"><img src="https://images.ctfassets.net/g7eq1prqo1vw/1s390qUzXcv6Odsyswkbsr/c84f8b027798128282d791d5a19ec4c4/Pedal_Pads.png?fm=webp&q=60" width="40"/></a>
 </p>
 
 ## 🗺️ Language Proficiency
