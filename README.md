@@ -81,7 +81,7 @@
     <img src="https://avatars.githubusercontent.com/u/62880632?s=280&v=4" width="36" alt="JUCE Logo"/>
   </a>
   <a href="https://www.tracktion.com/" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/C4E1BAQFrN1MhmM8RVg/company-background_10000/company-background_10000/0/1627396292299/tracktion_software_corporation_cover?e=1759503600&v=beta&t=rUvYlOVAaq4_Bir6-I87IXm7vsO9gOW0C536hTHgRko" width="36" alt="Tracktion Engine Logo"/>
+    <img src="[https://media.licdn.com/dms/image/v2/C4E1BAQFrN1MhmM8RVg/company-background_10000/company-background_10000/0/1627396292299/tracktion_software_corporation_cover?e=1759503600&v=beta&t=rUvYlOVAaq4_Bir6-I87IXm7vsO9gOW0C536hTHgRko](https://yt3.googleusercontent.com/pkL62ZIzWF01lGV-0BNC4bKN_rJY_Hl7rEnHGI2N6QC_Wjy3_TNRPCPMYIqn_7Hvbsr8SzW9Pw=s160-c-k-c0x00ffffff-no-rj)" width="36" alt="Tracktion Engine Logo"/>
   </a>
   <a href="https://www.spitfireaudio.com/labs/" target="_blank">
     <img src="https://images.ctfassets.net/g7eq1prqo1vw/3MGvqTxHTgM5EtZegZ3taF/97ca318200d853315f3a27920a8edfc3/LABS-android-chrome-512x512.png?h=250" width="36" alt="Spitfire LABS Logo"/>
