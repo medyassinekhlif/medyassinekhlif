@@ -49,6 +49,16 @@
   <a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="38" /></a>
 </p>
 
+## ☁️ Databases & Cloud Storage
+
+<p align="center">
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="38" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="38" /></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="38" /></a>
+  <a href="https://min.io/" target="_blank"><img src="https://w7.pngwing.com/pngs/749/248/png-transparent-minio-hd-logo-thumbnail.png" width="38" /></a>
+  <a href="https://cloudinary.com/" target="_blank"><img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/cloudinary-icon-ug0qqy8ms6ozyzy6cntbll.png/cloudinary-icon-hz05evx1htrghud89kpab4.png?_a=DATAg1AAZAA0" width="38" /></a>
+</p>
+
 #### DevOps
 
 <p align="center">
@@ -56,6 +66,7 @@
   <a href="https://www.jenkins.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="38" /></a>
   <a href="https://www.postman.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="38" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="38" /></a>
+  <a href="https://www.terraform.io/" target="_blank"><img src="https://ms-devlabs.gallerycdn.vsassets.io/extensions/ms-devlabs/custom-terraform-tasks/0.1.36/1748364894361/Microsoft.VisualStudio.Services.Icons.Default" width="38" /></a>
 </p>
 
 #### AI & Machine Learning Tools
