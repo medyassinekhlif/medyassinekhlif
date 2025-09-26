@@ -48,7 +48,7 @@
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="38" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="38" /></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="38" /></a>
-  <a href="https://min.io/" target="_blank"><img src="https://w7.pngwing.com/pngs/749/248/png-transparent-minio-hd-logo-thumbnail.png" height="38" /></a>
+  <a href="https://min.io/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/minio-1.svg" height="38" /></a>
   <a href="https://cloudinary.com/" target="_blank"><img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/cloudinary-icon-ug0qqy8ms6ozyzy6cntbll.png/cloudinary-icon-hz05evx1htrghud89kpab4.png?_a=DATAg1AAZAA0" width="38" /></a>
 </p>
 
