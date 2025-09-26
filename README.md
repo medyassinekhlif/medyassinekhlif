@@ -78,13 +78,13 @@
 
 <p align="center">
   <a href="https://juce.com/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/62880632?s=280&v=4" width="40" alt="JUCE Logo"/>
+    <img src="https://avatars.githubusercontent.com/u/62880632?s=280&v=4" width="40"/>
   </a>
   <a href="https://www.tracktion.com/" target="_blank">
-    <img src="https://assets.tracktion.com/img/branding/tracktion-logo-gear-light-gray.png" width="40" alt="Tracktion Engine Logo"/>
+    <img src="https://assets.tracktion.com/img/branding/tracktion-logo-gear-light-gray.png" width="40"/>
   </a>
   <a href="https://www.spitfireaudio.com/labs/" target="_blank">
-    <img src="https://images.ctfassets.net/g7eq1prqo1vw/3MGvqTxHTgM5EtZegZ3taF/97ca318200d853315f3a27920a8edfc3/LABS-android-chrome-512x512.png?h=250" width="40" alt="Spitfire LABS Logo"/>
+    <img src="https://images.ctfassets.net/g7eq1prqo1vw/3MGvqTxHTgM5EtZegZ3taF/97ca318200d853315f3a27920a8edfc3/LABS-android-chrome-512x512.png?h=250" width="40"/>
   </a>
 </p>
 
