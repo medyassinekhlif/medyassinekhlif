@@ -35,7 +35,7 @@
   <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="38" /></a>
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="38" /></a>
   <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="38" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" width="38" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://brandeps.com/icon-download/T/Tailwindcss-icon-01.png" width="38" /></a>
   <a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="38" /></a>
   <a href="https://reactrouter.com/" target="_blank"><img src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Light.png" width="38" /></a>
   <a href="https://socket.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="38" /></a>
@@ -68,8 +68,6 @@
 <p align="center">
   <a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="38"/></a>
   <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="38"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="38"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="38"/></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="38"/></a>
 </p>
 
@@ -82,9 +80,9 @@
 #### Music Production & Audio Development
 
 <p align="center">
-  <a href="https://juce.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/62880632?s=280&v=4" width="40"/></a>
-  <a href="https://www.tracktion.com/" target="_blank"><img src="https://assets.tracktion.com/img/branding/tracktion-logo-gear-light-gray.png" width="40"/></a>
-  <a href="https://www.spitfireaudio.com/labs/" target="_blank"><img src="https://labsplus.zendesk.com/hc/theming_assets/01JR9319VP8Q8FB3HG9KX51BD6" height="40"/></a>
+  <a href="https://juce.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/62880632?s=280&v=4" width="38"/></a>
+  <a href="https://www.tracktion.com/" target="_blank"><img src="https://assets.tracktion.com/img/branding/tracktion-logo-gear-light-gray.png" width="38"/></a>
+  <a href="https://www.spitfireaudio.com/labs/" target="_blank"><img src="https://labsplus.zendesk.com/hc/theming_assets/01JR9319VP8Q8FB3HG9KX51BD6" height="38"/></a>
 </p>
 
 ## 🗺️ Language Proficiency
