@@ -82,7 +82,7 @@
 <p align="center">
   <a href="https://juce.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/62880632?s=280&v=4" width="38"/></a>
   <a href="https://www.tracktion.com/" target="_blank"><img src="https://assets.tracktion.com/img/branding/tracktion-logo-gear-light-gray.png" width="38"/></a>
-  <a href="https://www.spitfireaudio.com/labs/" target="_blank"><img src="https://labsplus.zendesk.com/hc/theming_assets/01JR9319VP8Q8FB3HG9KX51BD6" height="38"/></a>
+  <a href="https://www.spitfireaudio.com/labs/" target="_blank"><img src="https://musictech.com/wp-content/uploads/2018/05/labs_logo.jpg" height="38"/></a>
 </p>
 
 ## 🗺️ Language Proficiency
