@@ -85,6 +85,7 @@
   <a href="https://juce.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/62880632?s=280&v=4" width="38"/></a>
   <a href="https://www.tracktion.com/" target="_blank"><img src="https://assets.tracktion.com/img/branding/tracktion-logo-gear-light-gray.png" width="38"/></a>
   <a href="https://www.spitfireaudio.com/labs/" target="_blank"><img src="https://images.ctfassets.net/g7eq1prqo1vw/3MGvqTxHTgM5EtZegZ3taF/97ca318200d853315f3a27920a8edfc3/LABS-android-chrome-512x512.png?h=250" height="38"/></a>
+  <a href="https://www.avid.com/pro-tools" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/PT2019.svg" width="38"/></a>  
 </p>
 
 ## 🗺️ Language Proficiency
