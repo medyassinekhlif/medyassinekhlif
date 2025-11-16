@@ -29,7 +29,7 @@
 <p align="center">
   <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="38" /></a>
   <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="38" /></a>
-  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4D12AQFrhUJpZHaEeA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1657257836406?e=2147483647&v=beta&t=KPk58FHFdqgCbTw-xrdeZ2I8wigRGuppiPg6_h4XYd0" height="38" /></a>
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-dot-net-logo-icon-svg-download-png-2944837.png" width="38" /></a>
   <a href="https://crowcpp.org/" target="_blank"><img src="https://avatars.githubusercontent.com/u/75249858?v=4&s=160" width="38" /></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="38" /></a>
   <a href="https://vitejs.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="38" /></a>
