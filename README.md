@@ -29,7 +29,7 @@
 <p align="center">
   <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="38" /></a>
   <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="38" /></a>
-  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img src="https://logodix.com/logo/1796970.png" height="38" /></a>
+  <a href="https://www.svgrepo.com/show/508894/aspnet.svg" target="_blank"><img src="https://logodix.com/logo/1796970.png" height="38" /></a>
   <a href="https://crowcpp.org/" target="_blank"><img src="https://avatars.githubusercontent.com/u/75249858?v=4&s=160" width="38" /></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="38" /></a>
   <a href="https://vitejs.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="38" /></a>
