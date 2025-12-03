@@ -19,8 +19,8 @@
 ## 🐝 Currently Learning
 
 - **Machine Learning & Neural Networks**:
-  – Diving into deep learning concepts using **PyTorch** and **FastAPI**.  
-  – Developing machine learning models that learn from programmatic musical data using **Python** and **PyTorch**. I’m also exploring VST host and plugin development using **C++**, **JUCE**, and **Tracktion          Engine**, and learning to integrate and enhance instruments like **Spitfire LABS**.
+  - Diving into deep learning concepts using **PyTorch** and **FastAPI**.  
+  - Developing machine learning models that learn from programmatic musical data using **Python** and **PyTorch**. I’m also exploring VST host and plugin development using **C++**, **JUCE**, and **Tracktion          Engine**, and learning to integrate and enhance instruments like **Spitfire LABS**.
 - **Blockchain**:
   - Exploring blockchain concepts such as decentralization, transparency, immutability, and credibility, while learning to develop applications on Hyperledger Fabric.
 ## ⚡ Technologies & Tools
