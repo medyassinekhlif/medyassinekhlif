@@ -38,7 +38,7 @@
   <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="38" /></a>
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="38" /></a>
   <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="38" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://brandeps.com/icon-download/T/Tailwindcss-icon-01.png" width="38" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1WVY_O0i-9_eU-4GbdJc4msIY3NdDS7vKzA&s" width="38" /></a>
   <a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="38" /></a>
   <a href="https://reactrouter.com/" target="_blank"><img src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Light.png" width="38" /></a>
   <a href="https://socket.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="38" /></a>
@@ -52,7 +52,7 @@
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" width="38" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="38" /></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="38" /></a>
-  <a href="https://min.io/" target="_blank"><img src="https://blog.min.io/content/images/2019/05/minio-publication-icon-7.png" height="38" /></a>
+  <a href="https://min.io/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/minio-1.svg" height="38" /></a>
   <a href="https://cloudinary.com/" target="_blank"><img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/cloudinary-icon-ug0qqy8ms6ozyzy6cntbll.png/cloudinary-icon-hz05evx1htrghud89kpab4.png?_a=DATAg1AAZAA0" width="38" /></a>
   <a href="https://www.mysql.com/products/workbench/" target="_blank"><img src="https://images.icon-icons.com/1381/PNG/512/mysqlworkbench_93532.png" height="38" /></a>
 </p>
