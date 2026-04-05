@@ -38,7 +38,7 @@
   <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="38" /></a>
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="38" /></a>
   <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="38" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1WVY_O0i-9_eU-4GbdJc4msIY3NdDS7vKzA&s" width="38" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.creazilla.com/icons/3254431/tailwindcss-icon-icon-lg.png" width="38" /></a>
   <a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="38" /></a>
   <a href="https://reactrouter.com/" target="_blank"><img src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Light.png" width="38" /></a>
   <a href="https://socket.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="38" /></a>
