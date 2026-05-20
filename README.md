@@ -40,7 +40,7 @@
   <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="38" /></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.creazilla.com/icons/3254431/tailwindcss-icon-icon-lg.png" width="38" /></a>
   <a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="38" /></a>
-  <a href="https://reactrouter.com/" target="_blank"><img src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Light.png" width="38" /></a>
+  <a href="https://reactrouter.com/" target="_blank"><img src="https://reactrouter.com/_brand/react-router-brand-assets/logo/Light.svg" width="38" /></a>
   <a href="https://socket.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="38" /></a>
   <a href="https://www.npmjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="38" /></a>
 </p>
