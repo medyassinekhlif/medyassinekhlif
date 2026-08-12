@@ -122,7 +122,11 @@ Check Out My Latest Project
     <img src="https://opengenerativestudios.studio/_next/image?url=%2Fassets%2Fnav-logo.png&w=384&q=75" alt="Open Generative Studios"/>
   </a>
 </p>
-
 <p align="center">
-  <strong><a href="https://opengenerativestudios.studio/" target="_blank">Open Generative Studios</a></strong> an open platform for machine learning and generative music.
+  <strong>
+    <a href="https://opengenerativestudios.studio/" target="_blank" rel="noopener noreferrer">
+      Open Generative Studios
+    </a>
+  </strong>
+  — an open platform for machine learning-based music generation and audio rendering.
 </p>
