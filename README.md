@@ -114,6 +114,15 @@
 
 I'm always open to collaborating on exciting projects! If you have an idea or need help with a project, don’t hesitate to contact me.
 
-## 📽️ Check Out My Latest Project
+## ✨ Check Out My Latest Project
+Check Out My Latest Project
 
-[Watch on YouTube](https://www.youtube.com/watch?v=TL5n5-ucbo8)
+<p align="center">
+  <a href="https://opengenerativestudios.studio/" target="_blank">
+    <img src="https://opengenerativestudios.studio/_next/image?url=%2Fassets%2Fnav-logo.png&w=384&q=75" alt="Open Generative Studios"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong><a href="https://opengenerativestudios.studio/" target="_blank">Open Generative Studios</a></strong> an open platform for machine learning and generative music.
+</p>
