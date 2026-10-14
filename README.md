@@ -115,16 +115,14 @@
 I'm always open to collaborating on exciting projects! If you have an idea or need help with a project, don’t hesitate to contact me.
 
 ## ✨ Check Out My Latest Project
-Check Out My Latest Project
-
 <p align="center">
-  <a href="https://opengenerativestudios.studio/" target="_blank">
-    <img src="https://opengenerativestudios.studio/_next/image?url=%2Fassets%2Fnav-logo.png&w=384&q=75" alt="Open Generative Studios"/>
+  <a href="https://medyassinekhlif.github.io/me/ogs" target="_blank">
+    <img src="nav-logo.png" alt="Open Generative Studios"/>
   </a>
 </p>
 <p align="center">
   <strong>
-    <a href="https://opengenerativestudios.studio/" target="_blank" rel="noopener noreferrer">
+    <a href="https://medyassinekhlif.github.io/me/ogs" target="_blank" rel="noopener noreferrer">
       Open Generative Studios
     </a>
   </strong>
