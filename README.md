@@ -117,7 +117,7 @@ I'm always open to collaborating on exciting projects! If you have an idea or ne
 ## ✨ Check Out My Latest Project
 <p align="center">
   <a href="https://medyassinekhlif.github.io/me/ogs" target="_blank">
-    <img src="nav-logo.png" alt="Open Generative Studios"/>
+    <img src="nav-logo.png" alt="Open Generative Studios" width="180"/>
   </a>
 </p>
 <p align="center">
